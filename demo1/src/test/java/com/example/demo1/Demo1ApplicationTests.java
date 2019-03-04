@@ -11,6 +11,7 @@ public class Demo1ApplicationTests {
 
     @Test
     public void contextLoads() {
+         int l2 = 12;
     }
 
 }
